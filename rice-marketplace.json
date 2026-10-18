@@ -1,14 +1,14 @@
 {
   "schema": "ricewm.recipe-marketplace/v1",
   "name": "Azure Dusk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Windows 11 alike recipe. Dark sibling of Azure Mist with charcoal surfaces, blue accents and native controls",
   "license": "CC0-1.0",
   "credits": "Anonymous",
   "artifact": {
     "path": "look-agent-azure-dusk.rice.json",
-    "bytes": 4052151,
-    "sha256": "13e6a0fa24f4697e561ab5b725a7eaafebfefaa772fb4b3904aa6fc3039ff65e"
+    "bytes": 4052266,
+    "sha256": "745c6bee0f43cd4e74083300a2b5a69b289d6d90e08fc5ff1eea7f994d02869c"
   },
   "media": [
     {
@@ -26,12 +26,12 @@
       "role": "screenshot",
       "path": "media/screenshot-1.webp",
       "alt": "Azure Dusk — desktop capture with sharing dialogs and menus omitted.",
-      "width": 1075,
+      "width": 1864,
       "height": 899,
       "license": "Depicted assets retain their original licences",
       "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
-      "sha256": "7b22685edbe2d7c635806f75f4db8fb44c9f3b1d426efbfa1238e2e691eb0e3b",
-      "bytes": 291316
+      "sha256": "375d5bba4f32747cd8f180db0f9b782acfda61f9fbd82afef3e5c89010a077b5",
+      "bytes": 342240
     }
   ]
 }

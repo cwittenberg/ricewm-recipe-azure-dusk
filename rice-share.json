@@ -2,5 +2,5 @@
   "schema": "ricewm.shared-rice/v1",
   "kind": "recipe",
   "package": "look-agent-azure-dusk.rice.json",
-  "sha256": "13e6a0fa24f4697e561ab5b725a7eaafebfefaa772fb4b3904aa6fc3039ff65e"
+  "sha256": "745c6bee0f43cd4e74083300a2b5a69b289d6d90e08fc5ff1eea7f994d02869c"
 }
